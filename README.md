@@ -8,7 +8,7 @@
 ### 1. Download <a href=https://github.com/glcod/Covac-Info/releases/download/v1.0/covac_info.zip>covac_info.zip
 ### 2. Unzip covac_info.zip .
 ### 3. Open covac_info folder .
-### 4. Run main.exe file .
+### 4. Run main.cmd file .
 ### 5. Enter pincode .
 ### 6. Check the available slots.
 ### 7. If you want to book the slot then enter y or else enter n.
