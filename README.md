@@ -18,3 +18,9 @@
 ![](https://github.com/glcod/Covac-Info/blob/main/output/3.JPG)
 ![](https://github.com/glcod/Covac-Info/blob/main/output/4.JPG)
 ![](https://github.com/glcod/Covac-Info/blob/main/output/5.JPG)
+## Features under development:
+*  Slot booking.
+*  Realtime slot avaliblity.
+
+  
+
