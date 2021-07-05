@@ -13,6 +13,8 @@
 ### 6. Check the available slots.
 ### 7. If you want to book the slot then enter y or else enter n.
 ## Some screen shots for refersnce .
-### 1. ![First Step](https://github.com/glcod/Covac-Info/blob/main/output/1.JPG)
-### 2. 
-### 3.
+![](https://github.com/glcod/Covac-Info/blob/main/output/1.JPG)
+![](https://github.com/glcod/Covac-Info/blob/main/output/2.JPG)
+![](https://github.com/glcod/Covac-Info/blob/main/output/3.JPG)
+![](https://github.com/glcod/Covac-Info/blob/main/output/4.JPG)
+![](https://github.com/glcod/Covac-Info/blob/main/output/5.JPG)
