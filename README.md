@@ -13,6 +13,6 @@
 ### 6. Check the available slots.
 ### 7. If you want to book the slot then enter y or else enter n.
 ## Some screen shots for refersnce .
-### 1. 
+### 1. ![First step after download](output/1.png)
 ### 2. 
 ### 3.
