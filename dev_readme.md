@@ -1,7 +1,7 @@
 <div style="width: 1920px; height: 1907px; padding-bottom: 34px; padding-left: 172px; padding-right: 190px; background-color: white; display: inline-flex; flex-direction: column; align-items: flex-start; justify-content: flex-start;">
     <p style="width: 496px; height: 115px; font-size: 100px; line-height: 100%; text-align: center; color: black;">Covac Info</p>
     <div style="height: 16.33px;"/>
-    <img style="width: 515px; height: 490px;" src="https://via.placeholder.com/515x490"/>
+    <img style="width: 515px; height: 490px;" src="https://github.com/glcod/Covac-Info/blob/main/output/logo.JPG"/>
     <div style="height: 16.33px;"/>
     <p style="width: 1540px; height: 173px; font-size: 70px; line-height: 100%; text-align: center; color: black;">Find vaccine availability in India using pincode .</p>
     <div style="height: 16.33px;"/>
