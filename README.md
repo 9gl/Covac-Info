@@ -1,5 +1,5 @@
-<p align=center><h1> Covac-Info </h1>
-![](https://github.com/glcod/Covac-Info/blob/main/output/logo.JPG)
+# Covac-Info 
+<img align = "center" src = "https://github.com/glcod/Covac-Info/blob/main/output/logo.JPG"  />
 ## Application which helps user find vaccine availability in India using pincode .
 ## Features:
 *  Helps to find availability of vaccine.
