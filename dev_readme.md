@@ -1,19 +1,12 @@
-<div style="width: 1920px; height: 1907px; padding-bottom: 34px; padding-left: 172px; padding-right: 190px; background-color: rgba(21, 27, 141, 0.95); display: inline-flex; flex-direction: column; align-items: flex-start; justify-content: flex-start;">
-    <p style="width: 496px; height: 115px; font-size: 100px; line-height: 100%; text-align: center; color: white;">Covac Info</p>
-    <div style="height: 16.33px;"/>
-    <img style="width: 515px; height: 490px;" src="https://via.placeholder.com/515x490"/>
-    <div style="height: 16.33px;"/>
-    <p style="width: 1540px; height: 173px; font-size: 70px; line-height: 100%; text-align: center; color: white;">Find vaccine availability in India using pincode .</p>
-    <div style="height: 16.33px;"/>
-    <p style="width: 341px; height: 82px; font-size: 64px; font-weight: 700; line-height: 100%; color: white;">Features</p>
-    <div style="height: 16.33px;"/>
-    <p style="width: 1527px; height: 278px; font-size: 54px; line-height: 100%; color: white;">Helps to find availability of vaccine.
+<div class="inline-flex flex-col space-y-4 items-start justify-start pl-44 pr-48 pb-8 bg-blue-900 bg-opacity-95" style="width: 1920px; height: 1907px;">
+    <p class="text-8xl text-center text-white" style="width: 496px; height: 115px;">Covac Info</p>
+    <p class="text-7xl text-center text-white" style="width: 1540px; height: 173px;">Find vaccine availability in India using pincode .</p>
+    <p class="w-80 h-20 text-6xl font-bold text-white">Features</p>
+    <p class="text-5xl text-white" style="width: 1527px; height: 278px;">Helps to find availability of vaccine.
     <br/>Also allows to quickly open webpage to book the slot for the vaccine at a center.
     <br/>User friendly.</p>
-    <div style="height: 16.33px;"/>
-    <p style="width: 231px; height: 82px; font-size: 64px; font-weight: 700; line-height: 100%; color: white;">Usage </p>
-    <div style="height: 16.33px;"/>
-    <p style="width: 1527px; height: 555px; font-size: 54px; line-height: 100%; color: white;">1. Download covac_info.zip
+    <p class="w-56 h-20 text-6xl font-bold text-white">Usage </p>
+    <p class="text-5xl text-white" style="width: 1527px; height: 555px;">1. Download covac_info.zip
     <br/>2. Unzip covac_info.zip .
     <br/>3. Open  covac_info .
     <br/>4. Run covac_info.exe file .
