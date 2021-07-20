@@ -42,6 +42,5 @@ python covac_info.py
 ## Features under development:
 *  Slot booking.
 *  Realtime slot avaliblity.
-
-  
-
+## License
+[MIT](https://github.com/glcod/Covac-Info/blob/main/LICENSE)
