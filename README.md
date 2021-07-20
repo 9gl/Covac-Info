@@ -1,6 +1,6 @@
 # Covac-Info
 
-![](https://github.com/glcod/Covac-Info/blob/main/output/logo.JPG)
+![](https://github.com/glcod/Covac-Info/blob/main/output/icon.JPG)
 
 Find vaccine availability in India using pincode.
 
