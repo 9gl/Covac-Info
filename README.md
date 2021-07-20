@@ -8,6 +8,22 @@ Find vaccine availability in India using pincode.
 
 Download [Covac-Info](https://github.com/glcod/Covac-Info/releases/download/v1.0/covac_info.zip/) to install Covac Info.
 
+## Installation
+
+```bash
+git clone https://github.com/glcod/Covac-Info.git
+cd Covac-Info 
+python -m venv my_env
+my_env/Scripts/activate.bat
+pip install -r requirements.txt
+```
+
+## Usage
+
+```bash
+python covac_info.py
+```
+
 ## Features:
 *  Helps to find availability of vaccine.
 *  Also allows to quickly open webpage to book the slot for the vaccine at a center.
