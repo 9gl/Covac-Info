@@ -1,6 +1,6 @@
 # Covac-Info 
 ![](https://github.com/glcod/Covac-Info/blob/main/output/logo.JPG)
-## Application which helps user find vaccine availability in India using pincode .
+## Find vaccine availability in India using pincode 
 ## Features:
 *  Helps to find availability of vaccine.
 *  Also allows to quickly open webpage to book the slot for the vaccine at a center.
