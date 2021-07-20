@@ -4,7 +4,7 @@
 
 Find vaccine availability in India using pincode.
 
-## Installation
+## Download Application
 
 Download [Covac-Info](https://github.com/glcod/Covac-Info/releases/download/v1.0/covac_info.zip/) to install Covac Info.
 
